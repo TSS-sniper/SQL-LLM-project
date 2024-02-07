@@ -8,7 +8,7 @@ import sqlite3
 import google.generativeai as genai
 
 #Configure the API Key
-genai.configure(api_key=os.getenv("GOOGLE_api_key"))
+genai.configure(api_key=os.getenv("api_key"))
 
 #Function to load Google Gemini model and provode query as response
 
