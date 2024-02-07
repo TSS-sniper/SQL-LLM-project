@@ -7,3 +7,5 @@
 * StreamLit
 * SQLite
 * google-generativeai
+## Result Interface:
+![result_interface](https://github.com/TSS-sniper/SQL_LLM_pro/assets/121627136/2305e272-7a58-4876-975c-231e19e474ae)
