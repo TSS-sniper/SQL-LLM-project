@@ -1,9 +1,10 @@
-# SQL LLM Application
+# LLM-Powered SQL Assistant
 ## Objective:
-* This project aims to develop a simple and user-friendly LLM application that can translate human natural language query into a SQL query, retrieve data from the database, and present the results in a clear format.
-* This project leverages Google's Gemini Pro API to translate natural language queries into accurate SQL statements, using those it retrieves the data from the Database (i.e student.db in this case) and returns the result.
+* It is a conversational interface that enables users to query databases using natural language.
+* It leverages Google's Gemini Pro via LangChain to translate user input into precise SQL queries, executes them on a SQLite database, and displays the results in a clean, readable format.
+* Designed for both non-technical users and data analysts, this tool streamlines database interaction through intuitive, human-like prompts.
 ## Tools and Technologies used:
-* Google's Gemini Pro API
+* Google's Gemini Pro
 * StreamLit
 * SQLite
 * google-generativeai
